@@ -32,7 +32,7 @@ cat << JSON > $PKG_DIR/package.json
     "name": "Quramy",
     "email": "yosuke.kurami@gmail.com"
   },
-  "repository": "git+https://github.com/reg-viz/reg-suit.git",
+  "repository": "https://github.com/thomaswelton/reg-suit",
   "license": "MIT",
   "devDependencies": {
     "typescript": "3.9.7"

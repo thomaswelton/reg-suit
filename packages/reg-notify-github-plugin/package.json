@@ -19,7 +19,7 @@
     "name": "Quramy",
     "email": "yosuke.kurami@gmail.com"
   },
-  "repository": "git+https://github.com/reg-viz/reg-suit.git",
+  "repository": "https://github.com/thomaswelton/reg-suit",
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "26.0.24",
@@ -36,5 +36,6 @@
     "request": "^2.88.2",
     "request-promise": "^4.2.6",
     "tiny-commit-walker": "^1.1.2"
-  }
+  },
+  "gitHead": "a38251435614feba09998c5a5c361e5a0f1faf3a"
 }
